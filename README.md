@@ -1,4 +1,4 @@
-# Javier Serra - Fab Academy documentation
+# Javier Serra - MDEF documentation
 
 Visit [fabacademy.org](https://fabacademy.org/) for class and other information.
 
